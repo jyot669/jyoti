@@ -1,0 +1,9 @@
+.container{
+    margin-left:auto;
+    margin-right:auto;
+    border:auto;
+    color: rgba(13, 145, 185, 0.751);
+}
+.pricing-header {
+    max-width: 700px;
+}
